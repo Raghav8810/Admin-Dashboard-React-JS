@@ -3,6 +3,7 @@ import { createTheme } from "@mui/material/styles";
 
 //Both of them is used to establish theme setup 
 //neeww oosuhhhsvdhgsvdhgsd
+//theme changed
 
 //Now I  create a  color desgin token for app  install talwind shades extension
 export const tokens = (mode) =>({
